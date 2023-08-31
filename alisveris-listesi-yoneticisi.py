@@ -1,19 +1,3 @@
-# 1. Gereksinimlerin Belirlenmesi:
-# Kullanıcının alışveriş listesine ürün ekleyebilmesi.
-# Alışveriş listesindeki ürünleri görüntüleyebilmesi.
-# Alışveriş listesinden ürün silebilmesi.
-# Programı istediği zaman sonlandırabilmesi.
-
-# 2. Program Akışının Tasarlanması:
-# Kullanıcıya menü seçenekleri gösterilecek.
-# Kullanıcının seçimine göre ilgili işlem yapılacak.
-# Kullanıcı "çıkış" seçeneğini seçene kadar işlemler tekrar edecek.
-
-# 3. Kodlama Adımları:
-# Gerekli modülleri içe aktarın.
-# Boş bir alışveriş listesi oluşturun.
-# Bir döngü içinde kullanıcıdan sürekli olarak seçeneklerini alın ve ilgili işlemi gerçekleştirin.
-
 import sys
 
 alisveris_listesi = []
